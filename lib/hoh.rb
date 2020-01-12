@@ -44,6 +44,7 @@ def naming_system
 
   naming_system = PORTION_1
   naming_system[:sub_category][:sub_category][:sub_category] = PORTION_2
+  naming_system[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
 p naming_system
 end
 

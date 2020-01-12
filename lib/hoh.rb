@@ -43,8 +43,8 @@ def naming_system
   # HoH all the way to Species!
 
   naming_system = PORTION_1
-p naming_system[:sub_category][:sub_category][:sub_category] = PORTION_2
-
+  naming_system[:sub_category][:sub_category][:sub_category] = PORTION_2
+p naming_system
 end
 
 naming_system
